@@ -78,29 +78,6 @@ img::-moz-selection {
   background: transparent;
 }
 
-/* unvisited link */
-a:link {
-    color: red;
-	text-decoration: none;
-}
-
-/* visited link */
-a:visited {
-    color: green;
-	text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-    color: hotpink;
-	text-decoration: none;
-}
-
-/* selected link */
-a:active {
-    color: blue;
-	text-decoration: none;
-	}
 
 #mainNav {
   position: absolute;
